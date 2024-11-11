@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdadViewModel", "EdadViewModel\EdadViewModel.csproj", "{8B1870DF-6881-4D8A-98DC-588F1A55AC9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EdadViewModel", "EdadViewModel\EdadViewModel.csproj", "{8B1870DF-6881-4D8A-98DC-588F1A55AC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio02", "Ejercicio02\Ejercicio02.csproj", "{F418BDAD-34EB-416C-BF77-5DBD53DDBD17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,12 @@ Global
 		{8B1870DF-6881-4D8A-98DC-588F1A55AC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B1870DF-6881-4D8A-98DC-588F1A55AC9E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8B1870DF-6881-4D8A-98DC-588F1A55AC9E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F418BDAD-34EB-416C-BF77-5DBD53DDBD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F418BDAD-34EB-416C-BF77-5DBD53DDBD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F418BDAD-34EB-416C-BF77-5DBD53DDBD17}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F418BDAD-34EB-416C-BF77-5DBD53DDBD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F418BDAD-34EB-416C-BF77-5DBD53DDBD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F418BDAD-34EB-416C-BF77-5DBD53DDBD17}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
